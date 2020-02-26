@@ -16,7 +16,6 @@ public class EjemploCadenasCaracteres {
      */
     public static void main(String[] args) {
         
-        
         String nombre = "    Peter el Panda de mi casa      ";
         int longitud = nombre.length();
         
